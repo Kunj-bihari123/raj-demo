@@ -1,2 +1,2 @@
 # raj-demo
-this is a demo for git and git hub class.
+this is a demo for git and github class.
